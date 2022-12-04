@@ -12,8 +12,7 @@
     <nav class="navbar navbar-expand-lg bg-warning">
         <div class="container">
             <a class="navbar-brand text-dark" href="">
-            <img src="{{ asset('images/logo1.png') }}" width="50" height="50" class="me-2">
-            <strong>PT MITRASOFT GLOBAL PERDANA</strong>
+            <strong>PT KONEKTHING BENDA PINTAR</strong>
             </a>
             <button class="navbar-toggler" type="button" data-bs-aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
